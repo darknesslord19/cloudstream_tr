@@ -1,7 +1,7 @@
 {
   "name": "Darknes Lord Cloudstream Plugins",
   "description": "Cloudstream için eklenti deposu",
-  "iconUrl": "https://raw.githubusercontent.com/darknesslord19/cloudstream_tr/main/images/icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/darknesslord19/cloudstream_tr/main/images/Darknes.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/darknesslord19/cloudstream_tr/main/builds/plugins.json"
